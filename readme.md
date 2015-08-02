@@ -1,2 +1,2 @@
-#jQuery Practice
-This repo contains solutions to some initial practice exercises for learning jQuery.
+##jQuery Practice
+This repo contains solutions to basic practice exercises for learning jQuery.
